@@ -1,15 +1,15 @@
 import Image from "next/image";
 
 import BarsIcon from "@/components/icons/BarsIcon";
+import BellIcon from "@/components/icons/BellIcon";
 import CalendarIcon from "@/components/icons/CalendarIcon";
+import ChevronIcon from "@/components/icons/ChevronIcon";
 import DocumentsIcon from "@/components/icons/DocumentsIcon";
 import HomeIcon from "@/components/icons/HomeIcon";
 import ProjectsIcon from "@/components/icons/ProjectsIcon";
 import ReportsIcon from "@/components/icons/ReportsIcon";
-import UsersIcon from "@/components/icons/UsersIcon";
 import SearchIcon from "@/components/icons/SearchIcon";
-import BellIcon from "@/components/icons/BellIcon";
-import ChevronIcon from "@/components/icons/ChevronIcon";
+import UsersIcon from "@/components/icons/UsersIcon";
 
 const navigation = [
   {
